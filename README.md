@@ -43,8 +43,8 @@ No command-line arguments needed — just run it, answer the prompts, and let Sp
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/BangladeshCyberSpectre/spectreye
-cd spectreye
+git clone https://github.com/bangladeshcyberspectre/SpectreYe.git
+cd SpectreYe
 pip install -r requirements.txt
 python spectreye.py
 ```
